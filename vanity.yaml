@@ -3,3 +3,7 @@ host: go.dkristian.app
 paths:
   /kronos:
     repo: https://github.com/kristiandrucker/kronos-go
+  /crypto:
+    repo: https://github.com/kristiandrucker/crypto
+  /log:
+    repo: https://github.com/kristiandrucker/log
