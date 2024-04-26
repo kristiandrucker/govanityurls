@@ -1,9 +1,7 @@
-host: go.dkristian.app
+host: go.drkr.io
 
 paths:
-  /kronos:
-    repo: https://github.com/kristiandrucker/kronos-go
-  /crypto:
-    repo: https://github.com/kristiandrucker/crypto
-  /log:
-    repo: https://github.com/kristiandrucker/log
+  /cloud:
+    repo: https://github.com/kristiandrucker/cloud
+  /terraform-provider-cloud:
+    repo: https://github.com/kristiandrucker/terraform-provider-cloud
