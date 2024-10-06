@@ -1,7 +1,7 @@
 host: go.drkr.io
 
 paths:
-  /cloud:
-    repo: https://github.com/kristiandrucker/cloud
+  /ctrader:
+    repo: https://github.com/kristiandrucker/ctrader
   /terraform-provider-cloud:
     repo: https://github.com/kristiandrucker/terraform-provider-cloud
