@@ -3,5 +3,7 @@ host: go.drkr.io
 paths:
   /ctrader:
     repo: https://github.com/kristiandrucker/ctrader
+  /hyperion:
+    repo: https://github.com/kristiandrucker/hyperion
   /terraform-provider-cloud:
     repo: https://github.com/kristiandrucker/terraform-provider-cloud
